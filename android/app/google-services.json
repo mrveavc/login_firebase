@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "451097066871",
+    "project_id": "fir-project-6597d",
+    "storage_bucket": "fir-project-6597d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451097066871:android:c4593a0bdd15ae34b8b572",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWX_gAPO6bsqPH4ajq8LDj5nd_Pm4Hag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451097066871:android:f7fd607100573dbab8b572",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWX_gAPO6bsqPH4ajq8LDj5nd_Pm4Hag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451097066871:android:99c9d0c530655ff7b8b572",
+        "android_client_info": {
+          "package_name": "com.example.rick_and_morty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWX_gAPO6bsqPH4ajq8LDj5nd_Pm4Hag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
